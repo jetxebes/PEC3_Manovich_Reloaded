@@ -15,7 +15,7 @@ Este ensayo presenta dos ejemplos contemporáneos de hibridación de medios que 
 
 ## **Caso 1: TouchDesigner - El metamedio escénico y performativo**
 
-**TouchDesigner**, desarrollado por **Derivative**, es un entorno de programación visual en tiempo real orientado a la creación de visuales interactivos, instalaciones generativas y performances audiovisuales. Su arquitectura basada en nodos permite ensamblar operadores que procesan vídeo, audio, datos de sensores, scripts en Python y **shaders** GLSL, generando experiencias reactivas y modulables.
+**TouchDesigner**, desarrollado por **Derivative**, es un entorno de programación visual en tiempo real orientado a la creación de visuales interactivos, instalaciones generativas y performances audiovisuales. Su arquitectura basada en nodos permite ensamblar operadores que procesan vídeo, audio, datos de sensores, scripts en **Python** y **shaders** **GLSL**, generando experiencias reactivas y modulables.
 
 Desde la perspectiva de Manovich, **TouchDesigner** representa un metamedio plenamente funcional que no simula medios anteriores, sino que habilita un espacio donde las técnicas de diferentes medios se integran algorítmicamente:
 
