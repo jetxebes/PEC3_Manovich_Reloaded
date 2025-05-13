@@ -89,7 +89,6 @@ Durante la elaboración de este trabajo se ha empleado ChatGPT de OpenAI como ap
 
 ## **Referencias**
 
-**
 - Adell, F. (2024). Fundamentos y evolución de la multimedia. UOC.  
 - Ferguson, K. (2014). Everything is a Remix. [http://www.everythingisaremix.info/  
 ](http://www.everythingisaremix.info/)Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.  
@@ -99,4 +98,3 @@ Durante la elaboración de este trabajo se ha empleado ChatGPT de OpenAI como ap
 ](https://github.com/comfyanonymous/ComfyUI)
 - StackEdit. [https://stackedit.io  
 ](https://stackedit.io)
-**
