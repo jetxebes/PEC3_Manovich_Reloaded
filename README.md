@@ -19,15 +19,15 @@ Este ensayo presenta dos ejemplos contemporáneos de hibridación de medios que 
 
 Desde la perspectiva de Manovich, **TouchDesigner** representa un metamedio plenamente funcional que no simula medios anteriores, sino que habilita un espacio donde las técnicas de diferentes medios se integran algorítmicamente:
 
-*“Simular un medio en software significa simular las técnicas de ese medio, no su superficie física”* (Manovich, 2013, p. 141).
+*“simular un medio en software significa simular sus herramientas e interfaces, más que su «material»”*(*El software toma el control*, Lev Manovich, 2013, p. 262 141).
 
 El programa encarna la modularidad técnica y cultural: permite combinar elementos del cine (**timeline**), arquitectura (modelado 3D), diseño gráfico (tipografía), interacción sensorial (OSC, MIDI, Kinect) en una sola interfaz operativa. Se trata de un entorno donde los medios no sólo coexisten, sino que se hibridan en tiempo real para formar sistemas audiovisuales complejos.
 
-*“La historia de los medios ha de entenderse como una red en evolución de técnicas de software y medios híbridos”* (p. 145).
+*“La historia de los medios ha de entenderse como una red en evolución de técnicas de software y medios híbridos”* (Lev Manovich, 2013, p. 266 145).
 
 La estética generada no reproduce lenguajes visuales preexistentes, sino que construye un metalenguaje visual. Esto se alinea con la noción de Manovich de que After Effects instauró una nueva estética no como medio, sino como entorno técnico generador de nuevos medios:
 
-“*La estética de After Effects no es la de un medio, sino la de un entorno técnico que permite generar nuevos medios híbridos”* (p. 195).
+“*La estética de After Effects no es la de un medio, sino la de un entorno técnico que permite generar nuevos medios híbridos”* ( Lev Manovich, 2013, p. 316 195).
 
 La comunidad de **TouchDesigner** potencia su expansión: se comparten flujos, plantillas, tutoriales y código, generando una inteligencia colectiva distribuida que refuerza el enfoque open **source** y **crowdsourcing** del software como cultura.
 
@@ -46,11 +46,11 @@ Recursos visuales:
 
 Según Manovich, este tipo de software encarna una técnica independiente del medio:
 
-“*Una técnica independiente del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que funcionan con estructuras de datos diferentes”* (p. 142).
+“*Una técnica independiente del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que funcionan con estructuras de datos diferentes”* (Lev Manovich, 2013 p. 263 142).
 
 **ComfyUI** permite manipular **latents**, **samplers**, **embeddings**, máscaras y modelos **LoRA** o **ControlNet**, todos como operadores culturales abstractos que remiten a medios tradicionales (pintura, dibujo, fotografía), pero reconfigurados como funciones algorítmicas aplicables a cualquier dato visual.
 
-*“La capacidad técnica de acceder a fragmentos de las obras de medios de los demás se ha convertido en la base de la principal estética de nuestra época: la remezcla”* (p. 156).
+*“La capacidad técnica de acceder a fragmentos de las obras de medios de los demás se ha convertido en la base de la principal estética de nuestra época: la remezcla”* (Lev Manovich, 2013 p. 277 156).
 
 La interfaz nodal habilita una hibridación técnica, donde se ensamblan elementos computacionales dispares para generar imágenes emergentes desde el ruido estadístico. No hay aquí trazos ni capturas, sino emergencias algorítmicas reproducibles, variables y colaborativas.
 
