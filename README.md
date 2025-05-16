@@ -60,7 +60,7 @@ Recursos visuales:
     
 - Colección visual: [https://comfyworkflows.com/](https://comfyworkflows.com/)
     
-- Vídeo explicativo: [https://www.youtube.com/watch?v=0fFxtJwT-vw](https://www.youtube.com/watch?v=a7KtirwLoyo)
+- Vídeo explicativo: [https://www.youtube.com/watch?v=0fFxtJwT-vw](https://www.youtube.com/watch?v=0fFxtJwT-vw)
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhQoVx_4zWusNuGsqihwWTlw6yup2DIAT5dPj5ij_89GdRV5pGQ2TMnhCk-4ZPJyLMxMKYpT77XmyuYgexCUE1Seth7RpjKbFJc22ZMJs8oXUChEKvut6-1dC-T2Gn0bXUl_Y9vg?key=0q3dibSTk2o3WQDl9krjZQ)**
 
